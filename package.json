@@ -1,0 +1,22 @@
+{
+  "name": "sumitsales",
+  "version": "1.0.0",
+  "description": "containorized container for onlimne shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitkumarsing1997/sumitsales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitkumarsing1997/sumitsales/issues"
+  },
+  "homepage": "https://github.com/amitkumarsing1997/sumitsales#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
